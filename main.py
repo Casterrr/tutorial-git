@@ -1,0 +1,5 @@
+print("Hello word!!")
+print("Olá mundo!")
+print("Alteração feita na branch main")
+print("nova alteração!")
+print("Alteração criada na branch 'lucas'")
